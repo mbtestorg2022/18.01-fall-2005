@@ -18,42 +18,469 @@ Course Reader
 
 MIT students will be provided with a copy of the Course Reader: Jerison, D., and A. Mattuck. _Calculus_1\. Readings in the Course Reader are listed as "Notes". (Not available to OCW users.)
 
-| ses # | TOPICS | readings |
-| --- | --- | --- |
-| 1 | Velocity and Rates of Change | § 2.1-2.4. |
-| 2 | Slope and Derivative  {{< br >}}  {{< br >}}Limits and Continuity | Notes C. |
-| 3 | Differentiation Formulas: Products and Quotients | § 3.1-3.2. |
-| 4 | Chain Rule and Implicit Differentiation | § 3.3, 3.5-3.6, and 8.1-8.2. |
-| 5 | The Derivatives of Exponential and Logarithm Functions | § 8.3-8.4. |
-| 6 | The Derivatives of Trigonometric Functions | § 9.1-9.2, and 9.4. |
-| 7 | Review for Exam 1 |  |
-|  | Unit 1 Exam |  |
-| 8 | Approximations  {{< br >}}  {{< br >}}Mean Value Theorem | Notes A, MVT. |
-| 9 | Curve Sketching | § 4.1-4.2. |
-| 10 | Max-Min Problems | § 4.3-4.4. |
-| 11 | Related Rates | § 4.5. |
-| 12 | Inequalities, Zeros, and Newton's Method | § 4.6 and 2.6, pp. 76-77. |
-|  | Unit 2 Exam |  |
-| 13 | Differentials and Indefinite Integrals | § 5.1-5.3. |
-| 14 | Definite Integrals | § 6.1-6.4. |
-| 15 | The Fundamental Theorem of Calculus | § 6.5-6.6. |
-| 16 | Properties of Definite Integrals | Notes PI, Notes FT, and § 6.7. |
-| 17 | Differential Equations and Separation of Variables | § 5.4 and 8.5. |
-| 18 | Numerical Integration and Review of Unit 3 | § 10.9. |
-|  | Unit 3 Exam |  |
-| 19 | Areas between Curves, Volumes of Revolutions, and Slicing | § 7.1-7.3. |
-| 20 | Volumes by Shells and Average Values | Notes AV, § 7.4. |
-| 21 | Parametric Equations and Arc Length | § 17.1 and 7.5. |
-| 22 | Surface Area and Polar Coordinate Graphs | § 7.6 and 16.1-16.3. |
-| 23 | Area and Arc Length in Polar Coordinates | § 16.4-16.5. |
-|  | Unit 4 Exam |  |
-| 24 | Inverse Trigonometric Functions and Hyperbolic Functions | Notes G.7-G.9, § 9.5 and 9.7. |
-| 25 | Integration by Inverse Substitution | § 10.4-10.5. |
-| 26 | Integration by Partial Fractions | Notes F, § 10.6. |
-| 27 | Integration by Parts | § 10.7-10.8. |
-|  | Unit 5 Exam |  |
-| 28 | Indeterminate Forms and L'Hospital's Rule | § 12.1-12.3. |
-| 29 | Improper Integrals | Notes INT, § 12.4. |
-| 30 | Infinite Series | § 13.1-13.3. |
-| 31 | Power Series | § 14.1 and 14.4. |
-| 32-33 | Final Review |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ses #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Velocity and Rates of Change
+{{< tdclose >}}
+{{< tdopen >}}
+§ 2.1-2.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Slope and Derivative  
+  
+Limits and Continuity
+{{< tdclose >}}
+{{< tdopen >}}
+Notes C.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation Formulas: Products and Quotients
+{{< tdclose >}}
+{{< tdopen >}}
+§ 3.1-3.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Chain Rule and Implicit Differentiation
+{{< tdclose >}}
+{{< tdopen >}}
+§ 3.3, 3.5-3.6, and 8.1-8.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Derivatives of Exponential and Logarithm Functions
+{{< tdclose >}}
+{{< tdopen >}}
+§ 8.3-8.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Derivatives of Trigonometric Functions
+{{< tdclose >}}
+{{< tdopen >}}
+§ 9.1-9.2, and 9.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Review for Exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 1 Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Approximations  
+  
+Mean Value Theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Notes A, MVT.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Curve Sketching
+{{< tdclose >}}
+{{< tdopen >}}
+§ 4.1-4.2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Max-Min Problems
+{{< tdclose >}}
+{{< tdopen >}}
+§ 4.3-4.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Related Rates
+{{< tdclose >}}
+{{< tdopen >}}
+§ 4.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Inequalities, Zeros, and Newton's Method
+{{< tdclose >}}
+{{< tdopen >}}
+§ 4.6 and 2.6, pp. 76-77.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 2 Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Differentials and Indefinite Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+§ 5.1-5.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Definite Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+§ 6.1-6.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+The Fundamental Theorem of Calculus
+{{< tdclose >}}
+{{< tdopen >}}
+§ 6.5-6.6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Properties of Definite Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+Notes PI, Notes FT, and § 6.7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Differential Equations and Separation of Variables
+{{< tdclose >}}
+{{< tdopen >}}
+§ 5.4 and 8.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Numerical Integration and Review of Unit 3
+{{< tdclose >}}
+{{< tdopen >}}
+§ 10.9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 3 Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Areas between Curves, Volumes of Revolutions, and Slicing
+{{< tdclose >}}
+{{< tdopen >}}
+§ 7.1-7.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Volumes by Shells and Average Values
+{{< tdclose >}}
+{{< tdopen >}}
+Notes AV, § 7.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Parametric Equations and Arc Length
+{{< tdclose >}}
+{{< tdopen >}}
+§ 17.1 and 7.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Surface Area and Polar Coordinate Graphs
+{{< tdclose >}}
+{{< tdopen >}}
+§ 7.6 and 16.1-16.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Area and Arc Length in Polar Coordinates
+{{< tdclose >}}
+{{< tdopen >}}
+§ 16.4-16.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 4 Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Inverse Trigonometric Functions and Hyperbolic Functions
+{{< tdclose >}}
+{{< tdopen >}}
+Notes G.7-G.9, § 9.5 and 9.7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by Inverse Substitution
+{{< tdclose >}}
+{{< tdopen >}}
+§ 10.4-10.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by Partial Fractions
+{{< tdclose >}}
+{{< tdopen >}}
+Notes F, § 10.6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Integration by Parts
+{{< tdclose >}}
+{{< tdopen >}}
+§ 10.7-10.8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+Unit 5 Exam
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Indeterminate Forms and L'Hospital's Rule
+{{< tdclose >}}
+{{< tdopen >}}
+§ 12.1-12.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Improper Integrals
+{{< tdclose >}}
+{{< tdopen >}}
+Notes INT, § 12.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Infinite Series
+{{< tdclose >}}
+{{< tdopen >}}
+§ 13.1-13.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Power Series
+{{< tdclose >}}
+{{< tdopen >}}
+§ 14.1 and 14.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32-33
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

@@ -62,9 +62,54 @@ There will be 8 problem sets. There will be 5 in-class exams during the lecture 
 Grading
 -------
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Eight Problem Sets | 50 each (Note: The lowest problem set score will be dropped.) |
-| Five In-class 1 Hour Exams | 100 each |
-| Final Exam | 250 |
-| Total | 1100
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Eight Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+50 each (Note: The lowest problem set score will be dropped.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Five In-class 1 Hour Exams
+{{< tdclose >}}
+{{< tdopen >}}
+100 each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+250
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+1100
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
