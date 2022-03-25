@@ -57,12 +57,12 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/ocw01f05ps4))
 {{< tdopen >}}
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/ocw01f05ps5))  
   
-Images: (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/5c)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/5d))
+Images: ([PDF 1]({{< baseurl >}}/resources/5c)) ([PDF 2]({{< baseurl >}}/resources/5d))
 {{< tdclose >}}
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ocw01f05ps5soln))  
   
-Images: ([PDF 1]({{< baseurl >}}/resources/ps5b)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/ps5prob1))
+Images: ([PDF 1]({{< baseurl >}}/resources/ps5b)) ([PDF 2]({{< baseurl >}}/resources/ps5prob1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,7 +73,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ocw01f05ps6))
 {{< tdopen >}}
 Solution ([PDF]({{< baseurl >}}/resources/ocw01f05ps6soln))  
   
-Images: ([PDF 1]({{< baseurl >}}/resources/astroid)) ([PDF 2]({{< baseurl >}}/resources/ps6_g)) ([PDF 3]({{< baseurl >}}/resources/ps6_ha)) ([PDF 4]({{< baseurl >}}/resources/ps6_hb)) ([PDF 5]({{< baseurl >}}/resources/ps6_hc)) ([PDF 6]({{< baseurl >}}/resources/ps6_ja)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 7]({{< baseurl >}}/resources/ps6_2c)) ([PDF 8]({{< baseurl >}}/resources/ps6_p2)) ([PDF 9]({{< baseurl >}}/resources/ps6_p2a))
+Images: ([PDF 1]({{< baseurl >}}/resources/astroid)) ([PDF 2]({{< baseurl >}}/resources/ps6_g)) ([PDF 3]({{< baseurl >}}/resources/ps6_ha)) ([PDF 4]({{< baseurl >}}/resources/ps6_hb)) ([PDF 5]({{< baseurl >}}/resources/ps6_hc)) ([PDF 6]({{< baseurl >}}/resources/ps6_ja)) ([PDF 7]({{< baseurl >}}/resources/ps6_2c)) ([PDF 8]({{< baseurl >}}/resources/ps6_p2)) ([PDF 9]({{< baseurl >}}/resources/ps6_p2a))
 {{< tdclose >}}
 
 {{< trclose >}}
